@@ -8,6 +8,8 @@
 
 > 🧠 If it looks like I haven’t pushed much here — it’s because I’ve spent most of my time working in **Vogsphere**, Codam’s internal version control system (Git-based but private). So while GitHub's been a bit quiet, the code definitely hasn’t.
 
+> ❤️ Fun fact: I always name things after my girlfriend. If you see a project with the name **Marie** or similar, it's my way of showing some love and inspiration from her. 😊
+
 ---
 
 ### 🌱 Currently into
