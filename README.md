@@ -1,27 +1,29 @@
-## Hi there, I'm Isly 👋
+## Hi there, I'm Isly91 👋
 
-🎓 Wrapping up my journey at **Codam**, where I’ve been diving deep into the world of low-level programming, networks, and system architecture.
+🎓 Finishing up my time at **Codam**, where I've spent the last years learning by building — from low-level systems to full web applications.
 
-💡 I enjoy solving problems from the ground up — understanding how things work under the hood, building efficient solutions, and learning by doing.
+🚀 I'm currently working on **Transcendence**, the final project of the 42 curriculum, which blends full-stack web development, real-time features, and lots of learning along the way.
 
-🛠️ Most of my work is in **C++**, **C**, and **shell**, with an increasing curiosity for tools that scale and automate.
+💡 I'm passionate about understanding how things work under the hood — especially when it comes to networking, asynchronous programming, and scalable architecture.
 
----
-
-### 🌱 What I'm into right now
-
-- Systems programming & architecture
-- Clean, maintainable code
-- Asynchronous I/O & networking
-- Exploring new tools, workflows, and weird bugs 😅
+> 🧠 If it looks like I haven’t pushed much here — it’s because I’ve spent most of my time working in **Vogsphere**, Codam’s internal version control system (Git-based but private). So while GitHub's been a bit quiet, the code definitely hasn’t.
 
 ---
 
-### 📫 Let's connect
+### 🌱 Currently into
+
+- Systems & network programming
+- Clean, maintainable code in C/C++
+- Building full-stack apps with real-time capabilities
+- Exploring DevOps, containerization, and cloud tools
+
+---
+
+### 📫 Reach out
 
 - GitHub: [@Isly91](https://github.com/Isly91)
 - Email: behlulistudio@gmail.com
 
 ---
 
-Thanks for checking out my profile 👋
+Thanks for passing by 👋
