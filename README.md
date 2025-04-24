@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, I'm Isly 👋
 
-<!--
-**Isly91/Isly91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Wrapping up my journey at **Codam**, where I’ve been diving deep into the world of low-level programming, networks, and system architecture.
 
-Here are some ideas to get you started:
+💡 I enjoy solving problems from the ground up — understanding how things work under the hood, building efficient solutions, and learning by doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Most of my work is in **C++**, **C**, and **shell**, with an increasing curiosity for tools that scale and automate.
+
+---
+
+### 🌱 What I'm into right now
+
+- Systems programming & architecture
+- Clean, maintainable code
+- Asynchronous I/O & networking
+- Exploring new tools, workflows, and weird bugs 😅
+
+---
+
+### 📫 Let's connect
+
+- GitHub: [@Isly91](https://github.com/Isly91)
+- Email: behlulistudio@gmail.com
+
+---
+
+Thanks for checking out my profile 👋
