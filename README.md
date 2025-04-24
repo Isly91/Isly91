@@ -1,4 +1,4 @@
-## Hi there, I'm Isly91 👋
+## Hi there, I'm Isly 👋
 
 🎓 Finishing up my time at **Codam**, where I've spent the last years learning by building — from low-level systems to full web applications.
 
